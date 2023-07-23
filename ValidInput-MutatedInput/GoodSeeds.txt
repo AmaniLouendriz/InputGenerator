@@ -1,0 +1,63 @@
+1- 744396417663034837922748   // it changes United States Nov.13 May.19 10 6 5 1 
+ to United States Nov.5864713433679903411 May.19 10 6 5 1 
+
+2- 69348931124107475093826  // it suppresses the last element **************************** just a few..
+
+changes : Canada Dec.8 Jun.9 8 10 3 5 to Canada Dec.8 Jun.9 8 10 3 5 
+ no changes here but it did change somewhere else :)
+
+3- 547403933973214057192552 //
+changes XXxR Nov.11 Sep.23 9 1 1 2  to XXxR Nov.11 Sep.11 Sep.23 9 1 1  1 2 
+
+4- 596921270827007302646900 //adding weird characters    *************************************************** just a few (not adding weird chars in my last tests)
+changes DyWuOgDXe Apr.3 Sep.16 8 10 2 4  to DyWâ€†uOgDXe Apr.3 Sep.16 8 10 2 4 
+
+5- 841147025370214944587873  
+changes Canada Dec.8 Jun.9 8 10 3 5  to Canada󠁏 Dec  8 Jun.1 1 10 3 5   and  ***********just a few (weird chars are here) unsupported by normal generic ascii code..
+Canada Dec.12 Mar.9 3 14 2 2 to Canada󠁏 Dec.  2 Mar.1 1 14 2 2 
+
+6- 1084753676305214074417212
+
+changes IWva Jan.24 May.31 4 16 2 5 to  IWva Ja󠀦n.24󠁞 May.31 4 16 2 5 ʴ  and 
+Canada Dec.8 Jun.9 8 10 3 5  to Canada 󠀦Dec.󠁞8 Jun.9 8 10 3 5 ʴ
+
+7- 423451666007643088623410
+
+changes Canada Dec.8 Jun.9 8 10 3 5 to Canada Dec.779 Jun.9 8 10 3 6
+
+
+8- 912832466376868251147866
+
+changes Jo Feb.10 Jan.23 13 11 3 5 to Jo F󠀻eb.10 Jan.23 10 Jan.23 13 11 3 5   // U+e003b hidden in the F and 
+Canada Dec.8 Jun.9 8 10 3 5 to Cana󠀻da Dec.8 Jun.9 8 Jun.9 8 10 3 5  // another unusual charcter is hidden in the Canada
+
+9- 118934999636211854101685
+
+changes Canada Dec.8 Jun.9 8 10 3 5 to Canada Dec.8 Ju󠁯n.9 8 10 3 5  // The u in the Jun has a special char and 
+Canada Oct.26 Sep.29 7 8 1 3 to Canada Oct.26 S󠁯ep.29 7 8 1 3 // special character after the S
+
+10- 330395769454015796021381
+changes NJHDhEgRkW Oct.16 Nov.6 16 14 3 1  to NJHDhEgRkW Oct.16 Nov.6 16 14 0 1 and 
+
+Canada Dec.8 Jun.9 8 10 6 5 to Canada Dec.8 Jun.9 8 10 0 5 
+
+
+
+#############Irrelevant mutation operators that I didn't consider###########################################
+
+1- change United States Nov.13 Jan.3 15 14 4 2 
+to United States Nov.170141183460469231731687303715884105728 Jan.-12663310911346893 2147483648 0 4 2 
+
+2- TvtrKab RM Jul.3 May.7 9 15 2 3 
+to TvtrKab RM Jul.32768236822060 8 06920938463463374607431768211456 2 3 
+
+3- 
+
+
+
+
+
+
+
+
+
